@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikos</h1>
 <h3 align="center">a software developer from Greece</h3>
 
-- 🔭 I’m currently working on **Machine Learning, Neural Networks and Fullstack development**
+- 🔭 I’m currently working on **Computer Security and Neural Networks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
