@@ -48,8 +48,11 @@ I'm an undergraduate student, studying in the Department of Infomatics and Telec
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clicknick64&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<br/>  
 
+<div align="center">
+<img width: 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=clicknick64&hide_border=true&layout=compact">
+</div>
 
 <br/>  
 
