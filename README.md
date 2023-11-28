@@ -19,8 +19,7 @@
 
 
 
-### a Security Operations Engineer w/ Batchelor's in Computer Science  
-I'm an undergraduate student, studying in the Department of Infomatics and Telecommunications of the National and Kapodistrian University of Athens.  
+### a Security Operations Engineer w/ Batchelor's in Computer Science
   
 
 <br/>  
